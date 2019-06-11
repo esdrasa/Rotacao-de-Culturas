@@ -1,0 +1,184 @@
+{
+  "crops": [
+     {
+      "name": "Lettuce",
+      "family": 1,
+      "grow_time": 2,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    },
+     {
+      "name": "Chicory",
+      "family": 1,
+      "grow_time": 4,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    },
+     {
+      "name": "Cole",
+      "family": 2,
+      "grow_time": 3,
+      "planting_period": [3,4,5,6]
+    },
+     {
+      "name": "Broccoli",
+      "family": 2,
+      "grow_time": 7,
+      "planting_period": [2,3,4,5,6]
+    },
+     {
+      "name": "Cabbage",
+      "family": 2,
+      "grow_time": 4,
+      "planting_period": [2,3,4,5,6]
+    },
+     {
+      "name": "Cauliflower",
+      "family": 2,
+      "grow_time": 4,
+      "planting_period": [3,4,5,6]
+    },
+    {
+      "name": "Beet",
+      "family": 3,
+      "grow_time": 2,
+      "planting_period": [3,4,5,6,7]
+    },
+    {
+      "name": "Spinach",
+      "family": 3,
+      "grow_time": 2,
+      "planting_period": [3,4,5,6,7]
+    },
+    {
+      "name": "Zucchini",
+      "family": 4,
+      "grow_time": 4,
+      "planting_period": [8,9,10,11,12,1,2,3]
+    },
+    {
+      "name": "Acorn squash",
+      "family": 4,
+      "grow_time": 5,
+      "planting_period": [9,10,11,12,1]
+    },
+    {
+      "name": "Cucumber",
+      "family": 4,
+      "grow_time": 4,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    },
+    {
+      "name": "Watermelon",
+      "family": 4,
+      "grow_time": 3,
+      "planting_period": [8,9,10]
+    },
+    {
+      "name": "Garlic",
+      "family": 5,
+      "grow_time": 6,
+      "planting_period": [3,4]
+    },
+    {
+      "name": "Onion",
+      "family": 5,
+      "grow_time": 4,
+      "planting_period": [3,4,5,6]
+    },
+    {
+      "name": "Okra",
+      "family": 6,
+      "grow_time": 7,
+      "planting_period": [8,9,10,11,12,1,2,3]
+    },
+    {
+      "name": "Corn",
+      "family": 7,
+      "grow_time": 3,
+      "planting_period": [8,9,10,11,12,1,2,3,4]
+    },
+    {
+      "name": "Oatmeal",
+      "family": 7,
+      "grow_time": 6,
+      "planting_period": [3,4,5]
+    },
+    {
+      "name": "Tomato",
+      "family": 8,
+      "grow_time": 5,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    },
+    {
+      "name": "Pepper",
+      "family": 8,
+      "grow_time": 5,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    },
+    {
+      "name": "Potato",
+      "family": 8,
+      "grow_time": 3,
+      "planting_period": [8,9,10]
+    },
+    {
+      "name": "Carrot",
+      "family": 9,
+      "grow_time": 4,
+      "planting_period": [3,4,5,6,7]
+    },
+    {
+      "name": "Parsley",
+      "family": 9,
+      "grow_time": 6,
+      "planting_period": [9,10,11,12,1,2,3]
+    },
+    {
+      "name": "Green beans",
+      "family": 10,
+      "grow_time": 4,
+      "planting_period": [8,9,10,11,12,1,2,3,4]
+    },
+    {
+      "name": "Pea",
+      "family": 2,
+      "grow_time": 3,
+      "planting_period": [3,4]
+    },
+    {
+      "name": "Beans",
+      "family": 2,
+      "grow_time": 3,
+      "planting_period": [8,9]
+    },
+    {
+      "name": "Sunn hemp",
+      "family": 10,
+      "grow_time": 3,
+      "planting_period": [9,10,11,12]
+    },
+    {
+      "name": "Pig’s bean",
+      "family": 10,
+      "grow_time": 3,
+      "planting_period": [9,10,11,12]
+    },
+    {
+      "name": "Mucuna",
+      "family": 10,
+      "grow_time": 3,
+      "planting_period": [9,10,11,12,1]
+    },
+    {
+      "name": "Hairy pea",
+      "family": 10,
+      "grow_time": 4,
+      "planting_period": [3,4,5,6]
+    },
+    {
+      "name": "Set-aside",
+      "family": 11,
+      "grow_time": 1,
+      "planting_period": [1,2,3,4,5,6,7,8,9,10,11,12]
+    }
+  ]
+}
